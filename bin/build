@@ -1,0 +1,3 @@
+#!/bin/bash
+
+zip -r -X add-two-numbers.zip main.js
